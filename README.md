@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/MSpilari/NLW4-Node?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/MSpilari/NLW4-Node?style=plastic)
 
-:us:
+## :us:
 
 ## :dart: Objective
 
@@ -52,7 +52,7 @@
   - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
   - [typescript](https://www.npmjs.com/package/typescript)
 
-:brazil:
+## :brazil:
 
 ## :dart: Objetivo
 
